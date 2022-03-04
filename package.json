@@ -1,0 +1,14 @@
+{
+  "name": "route2",
+  
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.3.2"
+  }
+}
